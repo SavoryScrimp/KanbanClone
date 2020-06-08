@@ -23,6 +23,27 @@ namespace KanbanClone.Controllers
             return View();
         }
 
+        public IActionResult UserWork()
+        {
+            return View();
+        }
+        public IActionResult Projects()
+        {
+            return View();
+        }
+        public IActionResult Filters()
+        {
+            return View();
+        }
+        public IActionResult People()
+        {
+            return View();
+        }
+        public IActionResult CreateIssue()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
